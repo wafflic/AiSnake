@@ -2,7 +2,7 @@
 
 A **Python + Pygame + Q-Learning AI Snake Game** that learns to play Snake by itself, made by a high school student to practice reinforcement learning.
 
-![ml snake.gif](https://i.ibb.co/VWrJfRXP/ml-snake.gif)
+![ml snake.gif](graphics/ml-snake.gif)
 
 ---
 
@@ -47,8 +47,8 @@ This project is primarily designed for **AI play**, but you can enable *player m
 
 ## 📸 Screenshots
 
-![screenshot1](https://i.ibb.co/277gx08b/image.png)
-![screenshot2](https://i.ibb.co/gZymBqjf/image.png)
+![screenshot1](graphics/snake1.png)
+![screenshot2](graphics/snake2.png)
 ---
 
 ## 🛠 Installation
